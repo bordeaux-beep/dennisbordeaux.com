@@ -1,0 +1,285 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #F3EAE3;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 2009px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #F3EAE3;
+}
+
+#page_position_content
+{
+	margin-bottom: -12px;
+}
+
+#pu1311
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u1311
+{
+	z-index: 3;
+	width: 358px;
+	height: 1929px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 142px;
+	left: 11px;
+}
+
+#u786
+{
+	z-index: 4;
+	width: 380px;
+	height: 285px;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../../images/elizabordeaux_denniskamerroodweb%20(1%20van%201)-u786-fr.jpg") no-repeat right center;
+	background-size: cover !important;
+}
+
+#u875
+{
+	z-index: 5;
+	width: 380px;
+	min-height: 120px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 286px;
+}
+
+#u877-18
+{
+	z-index: 6;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 451px;
+	left: 32px;
+}
+
+.js #u877-18.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u1277
+{
+	z-index: 24;
+	width: 179px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1231px;
+	left: 11px;
+}
+
+#u1280
+{
+	z-index: 26;
+	width: 348px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1744px;
+	left: 16px;
+}
+
+#u1280_clip
+{
+	overflow: hidden;
+	width: 348px;
+	height: 256px;
+}
+
+#u1280_img
+{
+	margin-left: -18px;
+	margin-right: -18px;
+}
+
+#u1308-4
+{
+	z-index: 28;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1711px;
+	left: 16px;
+}
+
+#u1310-4
+{
+	z-index: 32;
+	width: 316px;
+	min-height: 22px;
+	background-color: #540000;
+	text-align: center;
+	line-height: 23px;
+	color: #FFFFFF;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 418px;
+	left: 32px;
+}
+
+#about
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 418px;
+	left: 32px;
+}
+
+#gigs
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 1233px;
+	left: 13px;
+}
+
+#contact
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 1711px;
+	left: 11px;
+}
+
+#u1329
+{
+	z-index: 55;
+	width: 169px;
+	min-height: 472px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1230px;
+	left: 190px;
+}
+
+#u1331
+{
+	z-index: 56;
+	width: 74px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1568px;
+	left: 70px;
+}
+
+#u1357-9
+{
+	z-index: 58;
+	display: block;
+	vertical-align: top;
+	margin-left: 19px;
+	top: -321px;
+	margin-bottom: -59px;
+	position: relative;
+}
+
+#u1314
+{
+	z-index: 2;
+	width: 126px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	padding: 7px 243px 8.399999999999636px 11px;
+}
+
+#u1315-4
+{
+	z-index: 36;
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u1316-4
+{
+	z-index: 40;
+	display: block;
+	vertical-align: top;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u1317-4
+{
+	z-index: 44;
+	display: block;
+	vertical-align: top;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u1318-4
+{
+	z-index: 48;
+	display: block;
+	vertical-align: top;
+	margin-top: 7px;
+	position: relative;
+}
+
+body
+{
+	padding-bottom: 17px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
